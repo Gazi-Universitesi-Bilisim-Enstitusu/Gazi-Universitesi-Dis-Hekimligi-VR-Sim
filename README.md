@@ -59,7 +59,7 @@ Aşağıdaki değerler, tipik bir VR uygulaması için **önerilen** gereksiniml
 - **İşlemci (CPU)**: Intel i5 / AMD Ryzen 5 veya üzeri
 - **Bellek (RAM)**: En az 8 GB (önerilen 16 GB)
 - **Ekran Kartı (GPU)**: VR uyumlu ekran kartı (Örn: NVIDIA GTX 1060 / AMD eşdeğeri veya üzeri)
-- **Depolama**: En az 2 GB boş disk alanı
+- **Depolama**: En az 500 MB boş disk alanı
 - **VR Donanımı**: Uygun VR gözlüğü ve kontrolcüleri (Meta / HTC / benzeri)
 
 ---
